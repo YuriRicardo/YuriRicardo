@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Yuri Ricardo 🚀👋🏻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuri-ricardo-renosto-a5a478246)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-ricardo-renosto-a5a478246/recent-activity/all/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ricard.yuri)
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriRicardo&show_icons=true&theme=radical)
@@ -17,4 +17,3 @@
 </div><br/>
 
 Apaixonado tecnologia, querendo aprender cada dia mais e mudar vidas através da programação.
-
